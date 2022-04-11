@@ -9,7 +9,7 @@ Electronic Box for SKR PRO, Raspberry Pi 3/4 and a LM2596 Step Down Voltage Regu
 This mod is used for not Mean Well power supply, also was included a place to attach a Raspberry Pi 3/4 and a LM2596 Step Down Voltage Regulator
 
 
-##**BOM**
+## **BOM**
 
 
 5 M3 threaded insert
@@ -36,7 +36,7 @@ Essa modificação foi feita para poder utilizar fontes paralelas facilmente enc
 Também foi adicionado um lugar para travarmos um Raspberry Pi 3/4 e um Regulador de Voltagem LM2596.
 
 
-##**Lista de Materiais**
+## **Lista de Materiais**
 
 
 5 Insertos M3
