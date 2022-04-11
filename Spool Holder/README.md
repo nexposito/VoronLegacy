@@ -7,7 +7,7 @@ Horizontal spool holder for spools up to 89mm
 
 2 M5x16 BHCS
 
-2 T-nut M5
+2 M5 T-nut
 
 PTFE tube with 96mm
 
