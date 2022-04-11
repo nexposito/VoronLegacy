@@ -1,10 +1,10 @@
 Electronic Box for SKR PRO, Raspberry Pi 3/4 and a LM2596 Step Down Voltage Regulator
 
-![Electronic Box SKR Pro](https://github.com/nexposito/VoronLegacy/blob/main/Electronic%20Box%20-%20SKR%20PRO/Electronics%20Box%20SKR%20Pro%20Legacy%20v10.png)
-
-![Electronic Box SKR Pro 1](https://github.com/nexposito/VoronLegacy/blob/main/Electronic%20Box%20-%20SKR%20PRO/Electronics%20Box%20SKR%20Pro%20Legacy%20v10%201.png)
-
 ![Electronic Box SKR Pro 2](https://github.com/nexposito/VoronLegacy/blob/main/Electronic%20Box%20-%20SKR%20PRO/Electronics%20Box%20SKR%20Pro%20Legacy%20v10%202.png)
+
+![Electronic Box SKR Pro](https://github.com/nexposito/VoronLegacy/blob/main/Electronic%20Box%20-%20SKR%20PRO/IMG_20220411_162503.jpg)
+
+![Electronic Box SKR Pro 1](https://github.com/nexposito/VoronLegacy/blob/main/Electronic%20Box%20-%20SKR%20PRO/IMG_20220411_162517.jpg)
 
 This mod is used for not Mean Well power supply, also was included a place to attach a Raspberry Pi 3/4 and a LM2596 Step Down Voltage Regulator
 
