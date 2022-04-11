@@ -15,17 +15,15 @@ This mod is used for not Mean Well power supply, also was included a place to at
 
 5 M3x8 SHCS
 
-4 M5x10 BHCS
+5 M5x10 BHCS
 
-4 M5 T-nut
+5 M5 T-nut
 
-4 M3x8 SHCS
+10 M3x8 SHCS
 
-2 M2x10 Self-Tapping Screw
+4 M4x30 BHCS
 
-2 M4x30 BHCS
-
-2 M4 Hex nut
+4 M4 Hex nut
 
 1 M4x10 FHSC
 
@@ -39,21 +37,19 @@ Também foi adicionado um lugar para travarmos um Raspberry Pi Zero.
 **Lista de Materiais**
 
 
-4 Insertos M3
+5 Insertos M3
 
-4 M3x8 Cabeça Cilindrica
+5 M3x8 Cabeça Cilindrica
 
-4 M5x10 Cabeça Abaulada
+5 M5x10 Cabeça Abaulada
 
-4 Porca T M5
+5 Porca T M5
 
-4 M3x8 Cabeça Cilindrica
+10 M3x8 Cabeça Cilindrica
 
-2 M2x10 Auto Tarrachante
+4 M4x30 Cabeça Abaulada
 
-2 M4x30 Cabeça Abaulada
-
-2 Porcas M4
+4 Porcas M4
 
 1 M4x10 Cabeça Chata
 
