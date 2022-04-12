@@ -11,8 +11,6 @@ Horizontal spool holder for spools up to 89mm
 
 PTFE tube with 96mm
 
-If needed, mirror it in your slicer.
-
 
 ________________________________________________________________________________
 
@@ -28,8 +26,6 @@ Porta carretel horizontal para carretéis com até 89mm
 
 Tubo PTFE com 96mm
 
-
-Se necessário, espelhe-o em seu software fatiador.
 
 
 ![spool holder](https://github.com/nexposito/VoronLegacy/blob/main/Spool%20Holder/VORON%20Legacy%20Assembly%20v7.png)
